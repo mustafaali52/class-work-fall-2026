@@ -1,0 +1,14 @@
+D:\ZABIST\Fall 2026\MyFirstApplication\bin\Debug\net10.0\MyFirstApplication.exe
+D:\ZABIST\Fall 2026\MyFirstApplication\bin\Debug\net10.0\MyFirstApplication.deps.json
+D:\ZABIST\Fall 2026\MyFirstApplication\bin\Debug\net10.0\MyFirstApplication.runtimeconfig.json
+D:\ZABIST\Fall 2026\MyFirstApplication\bin\Debug\net10.0\MyFirstApplication.dll
+D:\ZABIST\Fall 2026\MyFirstApplication\bin\Debug\net10.0\MyFirstApplication.pdb
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.AssemblyInfoInputs.cache
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.AssemblyInfo.cs
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.csproj.CoreCompileInputs.cache
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.dll
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\refint\MyFirstApplication.dll
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.pdb
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\MyFirstApplication.genruntimeconfig.cache
+D:\ZABIST\Fall 2026\MyFirstApplication\obj\Debug\net10.0\ref\MyFirstApplication.dll

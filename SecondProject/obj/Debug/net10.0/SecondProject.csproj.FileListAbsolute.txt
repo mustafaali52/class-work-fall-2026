@@ -1,0 +1,14 @@
+D:\ZABIST\Fall 2026\SecondProject\bin\Debug\net10.0\SecondProject.exe
+D:\ZABIST\Fall 2026\SecondProject\bin\Debug\net10.0\SecondProject.deps.json
+D:\ZABIST\Fall 2026\SecondProject\bin\Debug\net10.0\SecondProject.runtimeconfig.json
+D:\ZABIST\Fall 2026\SecondProject\bin\Debug\net10.0\SecondProject.dll
+D:\ZABIST\Fall 2026\SecondProject\bin\Debug\net10.0\SecondProject.pdb
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.AssemblyInfoInputs.cache
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.AssemblyInfo.cs
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.dll
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\refint\SecondProject.dll
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.pdb
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\SecondProject.genruntimeconfig.cache
+D:\ZABIST\Fall 2026\SecondProject\obj\Debug\net10.0\ref\SecondProject.dll

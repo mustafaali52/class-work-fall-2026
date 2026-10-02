@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Collections/Collections.csproj" />
+  <Project Path="../SecondProject/SecondProject.csproj" />
+  <Project Path="MyFirstApplication.csproj" />
+</Solution>
