@@ -1,0 +1,14 @@
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\bin\Debug\net10.0\JaggedArray.exe
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\bin\Debug\net10.0\JaggedArray.deps.json
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\bin\Debug\net10.0\JaggedArray.runtimeconfig.json
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\bin\Debug\net10.0\JaggedArray.dll
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\bin\Debug\net10.0\JaggedArray.pdb
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.AssemblyInfoInputs.cache
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.AssemblyInfo.cs
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.csproj.CoreCompileInputs.cache
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.dll
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\refint\JaggedArray.dll
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.pdb
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\JaggedArray.genruntimeconfig.cache
+D:\ZABIST\Fall 2026\SCD\Classwork\JaggedArray\JaggedArray\obj\Debug\net10.0\ref\JaggedArray.dll
