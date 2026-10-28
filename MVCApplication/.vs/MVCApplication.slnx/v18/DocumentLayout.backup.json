@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 308,
-          "SelectedChildIndex": 67,
+          "SelectedChildIndex": 71,
           "Children": [
             {
               "$type": "Bookmark",
@@ -270,10 +286,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
@@ -313,34 +325,90 @@
               "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T04:50:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCApplication\\appsettings.json",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\appsettings.json",
+              "RelativeToolTip": "MVCApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-28T04:32:09.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Models\\DatabaseContext.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "MVCApplication\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:46:58.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Registration\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCApplication\\Views\\Registration\\Index.cshtml",
               "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Registration\\Index.cshtml",
               "RelativeToolTip": "MVCApplication\\Views\\Registration\\Index.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-14T05:22:52.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "MVCApplication\\Controllers\\RegistrationController.cs",
               "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "MVCApplication\\Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-14T05:16:17.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Models\\Entities\\User.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "MVCApplication\\Models\\Entities\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T03:55:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MVCApplication\\Properties\\launchSettings.json",
@@ -348,11 +416,25 @@
               "RelativeToolTip": "MVCApplication\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-14T05:13:47.039Z"
+              "WhenOpened": "2026-10-14T05:13:47.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Program.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Program.cs",
+              "RelativeToolTip": "MVCApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:04:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCApplication\\Views\\Shared\\_Layout.cshtml",
@@ -365,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCApplication\\Views\\_ViewStart.cshtml",
@@ -378,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCApplication\\Views\\Home\\Index.cshtml",
@@ -386,23 +468,12 @@
               "RelativeToolTip": "MVCApplication\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-14T05:05:32.47Z"
+              "WhenOpened": "2026-10-14T05:05:32.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Program.cs",
-              "RelativeDocumentMoniker": "MVCApplication\\Program.cs",
-              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Program.cs",
-              "RelativeToolTip": "MVCApplication\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T05:04:34.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCApplication\\Controllers\\HomeController.cs",
@@ -410,7 +481,8 @@
               "RelativeToolTip": "MVCApplication\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-14T04:54:18.383Z"
+              "WhenOpened": "2026-10-14T04:54:18.383Z",
+              "EditorCaption": ""
             }
           ]
         }

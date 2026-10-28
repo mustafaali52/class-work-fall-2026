@@ -1,8 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model MVCApplication.Models.Entities.User
 
 <h1>Welcome to the Sign Up page!!</h1>
 
@@ -10,36 +6,36 @@
     <fieldset>
         <div>
             <label for="labelName" class="form-label mt-4">Name</label>
-            <input type="text" name="name" class="form-control" id="name" aria-describedby="name" placeholder="Name">
+            <input type="text" asp-for="Name" name="name" class="form-control" id="name" aria-describedby="name" placeholder="Name">
         </div>
     </fieldset>
     <fieldset>
         <div>
             <label for="exampleInputEmail1" class="form-label mt-4">Email address</label>
-            <input type="email" name="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+            <input type="email" asp-for="EmailAddress" name="EmailAddress" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
         </div>
     </fieldset>
     <fieldset>
         <div>
             <label for="exampleInputPassword1" class="form-label mt-4">Password</label>
-            <input type="password" name="password" class="form-control" id="password" placeholder="Password" autocomplete="off">
+            <input type="password" asp-for="Password" name="password" class="form-control" id="password" placeholder="Password" autocomplete="off">
         </div>
         <div>
             <label for="exampleTextarea" class="form-label mt-4">Bio Data</label>
-            <textarea name="bioData" class="form-control" id="bioData" rows="3"></textarea>
+            <textarea asp-for="BioData" name="bioData" class="form-control" id="bioData" rows="3"></textarea>
         </div>
     </fieldset>
         <fieldset>
             <legend class="mt-4">Gender</legend>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="gender" id="male" value="male" checked="">
+                <input class="form-check-input" asp-for="Gender" type="radio" name="gender" id="male" value="m" checked="">
                 <label class="form-check-label" for="optionsRadios1">
                     Male
                 </label>
             </div>
             <div class="form-check">
-                <input class="form-check-input" type="radio" name="gender" id="female" value="female">
+                <input class="form-check-input" asp-for="Gender" type="radio" name="gender" id="female" value="f">
                 <label class="form-check-label" for="optionsRadios2">
                     Female
                 </label>

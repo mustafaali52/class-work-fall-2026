@@ -1,17 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MVCApplication.Models;
+using MVCApplication.Models.Entities;
 
 namespace MVCApplication.Controllers
 {
     public class RegistrationController : Controller
     {
+        private readonly DatabaseContext _context;
+        public RegistrationController (DatabaseContext context)
+        {
+            _context = context; 
+        }
         public IActionResult Index()
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult Index(IFormCollection form)
+        public IActionResult Index(User user)
         {
+            _context.Add(user);
+            _context.SaveChanges();
             // Handle form submission
             return View();
         }
