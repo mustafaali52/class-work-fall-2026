@@ -1,0 +1,15 @@
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.AssemblyInfoInputs.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.AssemblyInfo.cs
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.sourcelink.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.exe
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.deps.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.runtimeconfig.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\bin\Debug\net10.0\BankAccount.pdb
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\refint\BankAccount.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.pdb
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\BankAccount.genruntimeconfig.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\BankAccount\BankAccount\obj\Debug\net10.0\ref\BankAccount.dll

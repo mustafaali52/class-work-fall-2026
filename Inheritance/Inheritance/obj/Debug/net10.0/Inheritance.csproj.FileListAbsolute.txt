@@ -1,0 +1,15 @@
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.exe
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.deps.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.runtimeconfig.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\bin\Debug\net10.0\Inheritance.pdb
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfoInputs.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.AssemblyInfo.cs
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.sourcelink.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\refint\Inheritance.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.pdb
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\Inheritance.genruntimeconfig.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Inheritance\Inheritance\obj\Debug\net10.0\ref\Inheritance.dll

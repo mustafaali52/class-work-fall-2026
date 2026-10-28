@@ -1,0 +1,15 @@
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.AssemblyInfoInputs.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.AssemblyInfo.cs
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.sourcelink.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.exe
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.deps.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.runtimeconfig.json
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\bin\Debug\net10.0\Interfaces.pdb
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\refint\Interfaces.dll
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.pdb
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\Interfaces.genruntimeconfig.cache
+D:\ZABIST\Fall 2026\SCD\class-work-fall-2026\Interfaces\Interfaces\obj\Debug\net10.0\ref\Interfaces.dll
