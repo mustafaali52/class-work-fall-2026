@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|d:\\zabist\\fall 2026\\scd\\class-work-fall-2026\\mvcapplication\\mvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FB0CB-F32B-3D11-B5E9-F7FF1D6BC780}|MVCApplication\\MVCApplication.csproj|solutionrelative:mvcapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 67,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T05:22:52.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Controllers\\RegistrationController.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "MVCApplication\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:16:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCApplication\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-14T05:13:47.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAtwEYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T05:08:44.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T05:08:28.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T05:05:32.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Program.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Program.cs",
+              "RelativeToolTip": "MVCApplication\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T05:04:34.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ZABIST\\Fall 2026\\SCD\\class-work-fall-2026\\MVCApplication\\MVCApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:54:18.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
