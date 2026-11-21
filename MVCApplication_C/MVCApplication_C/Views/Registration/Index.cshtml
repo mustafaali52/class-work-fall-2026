@@ -1,0 +1,41 @@
+﻿@model MVCApplication_C.Models.Entities.User
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Welcome to the registration page!</h1>
+<form method="post" action="">
+    <div>
+        <label class="col-form-label mt-4" for="inputDefault">Enter your name: </label>
+        <input type="text" asp-for="Name" class="form-control" placeholder="Name" id="name" name="name">
+    </div>
+    <br />
+    <div>
+        <div class="form-floating mb-3">
+            <input type="email" asp-for="Email" class="form-control" id="floatingInput" placeholder="name@example.com">
+            <label for="floatingInput">Email address</label>
+        </div>
+        <div class="form-floating">
+            <input type="password" asp-for="Password" class="form-control" id="floatingPassword" placeholder="Password" autocomplete="off">
+            <label for="floatingPassword">Password</label>
+        </div>
+    </div>
+    <fieldset>
+        <legend class="mt-4">Gender</legend>
+        <div class="form-check">
+            <input class="form-check-input" asp-for="Gender" type="radio" name="gender" id="optionsRadios1" value="m" checked="">
+            <label class="form-check-label" for="optionsRadios1">
+                Male
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" asp-for="Gender" type="radio" name="gender" id="optionsRadios2" value="f">
+            <label class="form-check-label" for="optionsRadios2">
+                Female
+            </label>
+        </div>
+    </fieldset>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
